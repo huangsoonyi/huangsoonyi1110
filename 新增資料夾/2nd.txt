@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>美食網站</title>
+</head>
+<body>
+  <!-- 網站標題 -->
+  <h1>美食網站</h1>
+  
+  <!-- 導覽列 -->
+  <nav>
+    <a href="index.html">主頁</a> |
+    <a href="2nd.html">美食類型1</a> |
+    <a href="3rd.html">美食類型2</a> |
+    <a href="4th.html">美食類型3</a> |
+    <a href="5th.html">學習心得</a>
+  </nav>
+  
+  <!-- 主要內容 -->
+  <main>
+    <!-- 大圖片或影片 -->
+    <img src="臭豆腐.jpg" alt="美食圖片">
+<video width="320" height="240" controls>
+  <source src="臭豆腐1.mp4" type="video/mp4">
+  <source src="001.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+
+</video>
+    
+    <!-- 文字介紹 -->
+    <p>只賣臭豆腐、麵線、泡菜三種，卻總是大排長龍的經典逢甲夜市美食，是純素的素食者也能大快朵頤。>p>
+臭豆腐外層酥脆的不得了，裡面還好嫩好多汁；配上酸溜溜鮮脆泡菜，還有少見的小黃瓜絲，從頭到尾都滿足～<p>
+
+✅一心素食臭豆腐
+地址：台中市西屯區福星路461巷2號，地圖
+營業時間：16:00–23:00 (周六延長營業至00:00；周一公休)
+ </p>
+    
+    <!-- 音樂播放器 -->
+    <audio src="song.mp3" controls></audio>
+  </main>
+  
+  <!-- 頁腳 -->
+  <footer>
+    <p> © 2022 美食網站</p>
+  </footer>
+</body>
+</html>

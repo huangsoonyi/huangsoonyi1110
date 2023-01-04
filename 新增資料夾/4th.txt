@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>美食網站</title>
+</head>
+<body>
+  <!-- 網站標題 -->
+  <h1>美食網站</h1>
+  
+  <!-- 導覽列 -->
+  <nav>
+    <a href="index.html">主頁</a> |
+    <a href="2nd.html">美食類型1</a> |
+    <a href="3rd.html">美食類型2</a> |
+    <a href="4th.html">美食類型3</a> |
+    <a href="5th.html">學習心得</a>
+  </nav>
+  
+  <!-- 主要內容 -->
+  <main>
+    <!-- 大圖片或影片 -->
+    <img src="燒鳥.jpg" alt="美食圖片">
+<video width="320" height="240" controls>
+  <source src="燒鳥1.mp4" type="video/mp4">
+  <source src="001.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+
+</video>
+    
+    <!-- 文字介紹 -->
+    <p>在地人激推、氣氛滿點的日式串燒居酒屋，波比吃的是總店離逢甲夜市稍遠，而逢甲二店就在夜市最鬧區很方便。<p>
+抹茶麻糬豬肉捲、杏鮑菇牛肉捲…超特別創意串燒，免費雞湯好喝，還有歌手駐唱呢，周末來小酌幾杯超放鬆。<p>
+
+✅激旨燒き鳥 逢甲二店
+地址：台中市西屯區文華路71號2樓 (逢甲歡樂星內)，地圖
+營業時間：17:00–00:30 (周五、六延長營業至01:00)
+
+ </p>
+    
+    <!-- 音樂播放器 -->
+    <audio src="song.mp3" controls></audio>
+  </main>
+  
+  <!-- 頁腳 -->
+  <footer>
+    <p> © 2022 美食網站</p>
+  </footer>
+</body>
+</html>
